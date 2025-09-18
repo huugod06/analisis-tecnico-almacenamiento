@@ -1,0 +1,5 @@
+Technology,Read_MBps,Write_MBps,Capacity_TB,Cost_per_GB_USD,MTBF_hours,Power_W,Security_score,Scalability_score,Annual_maintenance_USD
+HDD,150,150,10,0.03,1500000,8,3,3,2000
+SSD,500,500,4,0.10,2000000,4,4,4,1500
+Tape,100,80,100,0.01,1000000,1,2,2,1000
+Cloud,400,350,99999,0.02,9999999,0,5,5,5000
